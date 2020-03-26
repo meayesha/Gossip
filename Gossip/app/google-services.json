@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962736340629",
+    "firebase_url": "https://android-gossip.firebaseio.com",
+    "project_id": "android-gossip",
+    "storage_bucket": "android-gossip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962736340629:android:b2e97ed402a87ff810a59c",
+        "android_client_info": {
+          "package_name": "edu.psu.mpg.gossip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962736340629-pq9q44ekrhbb53b78ltc8pe39l1502l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.psu.mpg.gossip",
+            "certificate_hash": "5b83c0615677648008eac46af3c13d0d04fac818"
+          }
+        },
+        {
+          "client_id": "962736340629-204el25maf9kd31spt5378ae2k9pf4vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYdYaulj-KpUzkxRBXI4NinLBahalOLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962736340629-204el25maf9kd31spt5378ae2k9pf4vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
